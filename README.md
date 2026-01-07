@@ -32,3 +32,5 @@ Overall, the Personal Portfolio Webpage project helps in understanding the funda
 
 
 OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/8b6d951a-7562-4afe-9259-e228d0b47a00)
